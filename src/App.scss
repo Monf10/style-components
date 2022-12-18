@@ -1,0 +1,28 @@
+
+// სინტაქსურად არაფერი იცვლება მხოლოდ app.jsში უნდა დააიმპორტოთ ფაილი სწორი გაფართოებით
+body{
+    background-color: rgb(243, 241, 241);
+}
+
+.nav-div {
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+li{
+    display: inline-block;
+    padding: 50px 15px;
+    color:rgba(34,76,255,255)
+}
+
+img{
+    width: 120px;
+    margin: 15px 50px;
+
+}
+#icon-div{
+    margin: 30px 50px;
+}

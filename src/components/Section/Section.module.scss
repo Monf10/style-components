@@ -1,0 +1,28 @@
+//სინტაქსურად აქაც არაფერი იცვლება.კომპონენტში დაკავშირებისას უნდა მიაქციოთ ყურადღება კლასს აიდის ან ელემენტს
+.pricing{
+    text-align: center;
+}
+.section{
+    border: 1px solid rgb(34,23,85);
+    width: 350px;
+    border-radius: 10px;
+    margin: auto;
+    color: gray;
+    
+}
+h1{
+    color: rgb(34,23,85);
+}
+h2{
+    font-size: 45px;
+    color: rgb(34,203,251);
+}
+h3{
+    font-size: 30px;
+}
+button{
+    padding: 20px;
+    font-size: 25px;
+    background-color: rgb(34,203,251);
+    border-radius: 15px;
+}
